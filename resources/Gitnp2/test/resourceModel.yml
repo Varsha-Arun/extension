@@ -9,6 +9,10 @@ configuration:
     type: Integration
     validate:
       isIntegrationType: Slack
+  slack_01:
+    type: Integration
+    validate:
+      isIntegrationType: Slack
   AWS:
     type: Integration
     validate:
