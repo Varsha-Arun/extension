@@ -5,11 +5,11 @@ configuration:
   foo1va:
     type: String
     validate:
-      isRegex: "lord"
+      isRegex: "lol"
   foo1:
     type: String
     validate:
-      isRegex: "lord"
+      isRegex: "lol"
   foo2:
     type: Int
     validate:
