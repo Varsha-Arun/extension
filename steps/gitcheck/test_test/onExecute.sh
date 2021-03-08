@@ -1,6 +1,6 @@
 sample() {
   printenv
-  ls
+  ls 
 
 }
 
