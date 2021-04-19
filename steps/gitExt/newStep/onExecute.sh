@@ -1,5 +1,5 @@
 sample() {
-  printenv
+#   printenv
   node foo.js
 }
 
