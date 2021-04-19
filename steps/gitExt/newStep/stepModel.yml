@@ -263,7 +263,7 @@ userDefinedDataType:
         validate:
           notRegex: "lol"
       foo39:
-        type: Date
+        type: Date[]
         
         validate:
           isBefore: "Wed Nov 02 2011 00:00:00 GMT+1000"
