@@ -205,7 +205,7 @@ configuration:
     validate:
       notIn: ["log","print"]
   foo38:
-    type: String
+    type: String[]
     immutable: true
     validate:
       notRegex: "lol"
